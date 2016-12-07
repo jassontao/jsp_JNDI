@@ -2,5 +2,5 @@
 java Naming Directory interface
 
 public BaseDao{
-  Context con=new  Inti
+  Context con=new  Intidfasd 
 }
